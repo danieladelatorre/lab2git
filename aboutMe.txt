@@ -2,3 +2,4 @@ Name: Daniela
 Major: Computer Engineering
 Year: Senior
 Hobbies: painting, listening to music, etc.
+Courses this quarter: COEN 174, COEN 174L, COEN 166, COEN 166L, COEN 194, CHST 4
